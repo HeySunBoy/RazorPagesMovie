@@ -1,6 +1,6 @@
 # RazorPagesMovie
 
-練習Asp.net Core
+Asp.net Core
 練習來源：<a href="https://docs.microsoft.com/zh-tw/aspnet/core/tutorials/razor-pages/?view=aspnetcore-5.0">【教學課程： Razor 使用 ASP.NET Core 建立頁面 web 應用程式】</a>
 
 包含下列教學課程：
